@@ -6,7 +6,7 @@ haming_spisok=haming.split()
 print(haming_spisok)
 def distance(x,y):
     k = 7
-    for i in range(1, 7):
+    for i in range(7):
         if x % 10 == y % 10:
             k = k - 1
             x = x // 10
@@ -15,7 +15,7 @@ def distance(x,y):
 cod=int(input("код= "))
 min=distance(cod,int(haming_spisok[0]))
 imin=0
-for i in range(0,9):
+for i in range(10):
     D=distance(cod,int(haming_spisok[i]))
     if D < min:
         min = D
