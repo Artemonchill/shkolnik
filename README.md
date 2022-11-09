@@ -44,8 +44,14 @@
 
 
 ![image](https://user-images.githubusercontent.com/114457195/200724128-fcd3093f-85b4-4f4f-94cc-45c1eeddaa9d.png)
+
+
 \overline{E^{2}_{1}}=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+\alpha^{\frac{1}{3}}_{1}+\beta^{\frac{2}{3}}_{2}
+
+
 f(x)=\frac{A_{0}}{2}+\sum_{n=1}^\infty  {}A_{n}\cos(\frac{2n\pi x}{v}-\alpha_{n})
+
+
 B=\frac{\mu\mu_{0}}{4\pi}\frac{I}{r_{0}}(\cos\alpha_{1}-\cos\alpha_{2})
 
 
