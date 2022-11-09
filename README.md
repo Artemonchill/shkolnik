@@ -56,5 +56,5 @@ B=\frac{\mu\mu_{0}}{4\pi}\frac{I}{r_{0}}(\cos\alpha_{1}-\cos\alpha_{2})
 
 
 ![image](https://user-images.githubusercontent.com/114457195/200726300-6d0483cd-023f-4034-9cdd-0f1364cd28a5.png)
-$$ (A\wedge B)\vee C= (A\vee C)\wedge (B\vee C) $$
+$$(A\wedge B)\vee C= (A\vee C)\wedge (B\vee C)$$
 
