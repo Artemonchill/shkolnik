@@ -1,22 +1,22 @@
  1 Перервод из n-ой сс в 10
  
  
- 2 Перевод из 10 в n-ую
+ 2 Перевод в n-ую сс из 10.py - перевод из 10 в n-ую
  
  
  3 Горнер python
  
  
- 4 Степени python
+ 4 степень.py - степени python
  
  
  5 Морзе python
  
  
- 6 PDF
+ 6 artemcher.pdf - PDF
  
  
- 7 excel Морзе
+ 7 Artemcher.xlsx - excel Морзе
  
  
  8 excel: Фибоначи, Таблица умножения, перевод сс
@@ -37,10 +37,10 @@
 13 Логика.py
 
 
-14 Прогноз нейросети
+14 прогноз нейросеть.png - гноз нейросети
 
 
-15 Automatic mouse and keyboard
+15 automouse.png - tomatic mouse and keyboard
 
 
 ![image](https://user-images.githubusercontent.com/114457195/200724128-fcd3093f-85b4-4f4f-94cc-45c1eeddaa9d.png)
@@ -56,4 +56,5 @@ B=\frac{\mu\mu_{0}}{4\pi}\frac{I}{r_{0}}(\cos\alpha_{1}-\cos\alpha_{2})
 
 
 ![image](https://user-images.githubusercontent.com/114457195/200726300-6d0483cd-023f-4034-9cdd-0f1364cd28a5.png)
+$$ (A\wedge B)\vee C= (A\vee C)\wedge (B\vee C) $$
 
