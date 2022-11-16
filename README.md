@@ -43,6 +43,9 @@
 15 automouse.png - tomatic mouse and keyboard
 
 
+16 Универсальный решатель задач на кодирование
+
+
 ![image](https://user-images.githubusercontent.com/114457195/200724128-fcd3093f-85b4-4f4f-94cc-45c1eeddaa9d.png)
 
 
