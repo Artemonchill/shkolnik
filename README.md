@@ -49,6 +49,10 @@
 17 Слайд шоу и видео - kartinkivideo.py
 
 
+18 Функция
+
+
+19 Викторина
 ![image](https://user-images.githubusercontent.com/114457195/200724128-fcd3093f-85b4-4f4f-94cc-45c1eeddaa9d.png)
 
 
