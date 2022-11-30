@@ -49,10 +49,12 @@
 17 Слайд шоу и видео - kartinkivideo.py
 
 
-18 Функция
+18 Функция - funkciya.py
 
 
-19 Викторина
+19 Викторина - viktorina.py
+
+
 ![image](https://user-images.githubusercontent.com/114457195/200724128-fcd3093f-85b4-4f4f-94cc-45c1eeddaa9d.png)
 
 
