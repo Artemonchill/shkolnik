@@ -72,3 +72,9 @@ $$B=\frac{\mu\mu_{0}}{4\pi}\frac{I}{r_{0}}(\cos\alpha_{1}-\cos\alpha_{2})$$
 $$(A\wedge B)\vee C= (A\vee C)\wedge (B\vee C)$$
 
 
+``` mermaid
+pie title Моё расписание на год
+    "Время в лицее" : 386
+    "Домшнее задание" : 85
+    "Сон" : 15
+```
