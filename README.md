@@ -55,6 +55,9 @@
 19 Викторина - viktorina.py
 
 
+20 Код Хемминга, Морзе, таблица умножения, из n-ой в 10-ую, из 10-ой в n-ую
+
+
 ![image](https://user-images.githubusercontent.com/114457195/200724128-fcd3093f-85b4-4f4f-94cc-45c1eeddaa9d.png)
 
 
