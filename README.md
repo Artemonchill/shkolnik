@@ -97,3 +97,4 @@ graph TD
     I --> |Женщина| K[Приключения]
     I --> |Пересдачча| Q
  ```
+![image](https://user-images.githubusercontent.com/114457195/208807459-4165f3c0-9867-420d-a68f-cb9e62e03944.png)
