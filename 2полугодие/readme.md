@@ -1,29 +1,29 @@
 | Номера | Решённость |
 | ------ | ------ |
-| 1 | [plugins/dropbox/README.md] |
-| 2 | [plugins/dropbox/README.md] |
-| 3 | [plugins/dropbox/README.md] |
-| 4 | [plugins/dropbox/README.md] |
-| 5 | [plugins/dropbox/README.md] |
-| 6 | [plugins/dropbox/README.md] |
-| 7 | [plugins/dropbox/README.md] |
-| 8 | [plugins/dropbox/README.md] |
-| 9 | [plugins/dropbox/README.md] |
-| 10 | [plugins/dropbox/README.md] |
-| 11 | [plugins/dropbox/README.md] |
-| 12 | [plugins/dropbox/README.md] |
-| 13 | [plugins/dropbox/README.md] |
-| 14 | [plugins/dropbox/README.md] |
-| 15 | [plugins/dropbox/README.md] |
-| 16 | [plugins/dropbox/README.md] |
-| 17 | [plugins/dropbox/README.md] |
-| 18 | [plugins/dropbox/README.md] |
-| 19 | [plugins/dropbox/README.md] |
-| 20 | [plugins/dropbox/README.md] |
-| 21 | [plugins/dropbox/README.md] |
-| 22 | [plugins/dropbox/README.md] |
-| 23 | [plugins/dropbox/README.md] |
-| 24 | [plugins/dropbox/README.md] |
-| 25 | [plugins/dropbox/README.md] |
-| 26 | [plugins/dropbox/README.md] |
-| 27 | [plugins/dropbox/README.md] |
+| 1 |  |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
+| 7 |  |
+| 8 |  |
+| 9 |  |
+| 10 |  |
+| 11 |  |
+| 12 |  |
+| 13 |  |
+| 14 |  |
+| 15 |  |
+| 16 |  |
+| 17 |  |
+| 18 |  |
+| 19 |  |
+| 20 |  |
+| 21 |  |
+| 22 |  |
+| 23 |  |
+| 24 |  |
+| 25 |  |
+| 26 |  |
+| 27 |  |
