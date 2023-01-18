@@ -27,6 +27,8 @@ def f5():
   print(f'| {N} |  |')
   print(f'| {N} |  |')
 
+  "5-е" 
+  
   for i in range(1,100):
     chislo=''
     num=(bin(i)[2:])
@@ -39,6 +41,7 @@ def f5():
         print (i)
         break
                
+"6-е"
         
   count=0
 for a in range (1,8):
