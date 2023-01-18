@@ -27,7 +27,19 @@ def f5():
   print(f'| {N} |  |')
   print(f'| {N} |  |')
 
-  
+  for i in range(1,100):
+    chislo=''
+    num=(bin(i)[2:])
+    if num.count('1')%2==0:
+        chislo=num +'100'
+
+    if num.count('1')%2!=0:
+        chislo=num +'001'
+    if int(chislo,2)>160:
+        print (i)
+        break
+        
+        
   count=0
 for a in range (1,8):
     for b in range (8):
