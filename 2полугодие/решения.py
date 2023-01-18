@@ -41,6 +41,19 @@ def f5():
         print (i)
         break
                
+for i in range(1,100):
+    chislo=''
+    num=(bin(i)[2:])
+    if num.count('1')%2==0:
+        chislo=num +'100'
+
+    if num.count('1')%2!=0:
+        chislo=num +'001'
+    if int(chislo,2)>160:
+        print (i)
+        break
+
+          
 "6-е"
         
   count=0
@@ -58,6 +71,19 @@ for a in range (1,8):
                         count+=1
 print(count)
 
+from turtle import *
+left(90)
+for i in range(1):
+    forward(150)
+    right(90)
+    forward(150)
+    goto(0,0)
+pu()
+for x in range(0,16):
+    for y in range(0,16):
+        goto(x*10,y*10)
+        dot(4)
+done()
 
 from itertools import product
 nums=product('01234567',repeat=5)
