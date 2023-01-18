@@ -38,7 +38,7 @@ def f5():
     if int(chislo,2)>160:
         print (i)
         break
-        
+               
         
   count=0
 for a in range (1,8):
