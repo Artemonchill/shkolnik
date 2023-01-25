@@ -114,3 +114,11 @@ for i in sp:
         if y*4+117==i and flag==False:
             print(y, i)
             flag=True
+
+            
+"15-e"
+
+for A in range(1,1000):
+    if all(((x%2==0)<=(x%3!=0))or(x+A>=100) for x in range (1,100)):
+        print(A)
+        break
