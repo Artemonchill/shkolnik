@@ -100,3 +100,17 @@ for n in nums:
         if not sp: 
             k+=1
 print(k)
+
+
+"12-e"
+
+sp=[]
+for num in range(2,1000):
+    if all(num % delit !=0 for delit in range(2,num-1)):
+        sp.append(num)
+flag=False
+for i in sp:
+    for y in range (100):
+        if y*4+117==i and flag==False:
+            print(y, i)
+            flag=True
