@@ -122,3 +122,19 @@ for A in range(1,1000):
     if all(((x%2==0)<=(x%3!=0))or(x+A>=100) for x in range (1,100)):
         print(A)
         break
+
+        
+ "23-е"
+
+from itertools import product
+for i in range(2,6):
+    b = product('12', repeat = 5)
+    for  n in b:
+        a=12
+        for x in n:
+            if x=='1':
+                a-=1
+            else:
+                a*=7
+        if a==489:
+            print(n)
