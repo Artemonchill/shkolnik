@@ -127,14 +127,26 @@ for A in range(1,1000):
  "23-е"
 
 from itertools import product
-for i in range(2,6):
-    b = product('12', repeat = 5)
-    for  n in b:
-        a=12
-        for x in n:
-            if x=='1':
-                a-=1
-            else:
-                a*=7
-        if a==489:
-            print(n)
+def f(x,y,z):
+    count=0
+    for i in range(2,z):
+        b = product('12', repeat = i)
+        print(i)
+        for  n in b:
+            a=x
+            if x==10 and n.count ('2')>1:
+                continue
+            for l in n:
+                if l=='1':
+                    a+=1
+                else:
+                    a*=2
+                if a==17:
+                    break
+            if a==y:
+                count+=1
+    return count
+k=f(10,35,24)
+p=f(1,10,10)
+print(k*p)
+
