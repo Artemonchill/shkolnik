@@ -122,8 +122,21 @@ for A in range(1,1000):
     if all(((x%2==0)<=(x%3!=0))or(x+A>=100) for x in range (1,100)):
         print(A)
         break
-
         
+        
+ "16-e"
+        import sys
+sys.setrecursionlimit (3000)
+it1=1
+it2=1
+for i in range(1,2024):
+    it1=it1*i
+for i in range(1,2021):
+    it2=it2*i
+print(it1/it2)
+
+
+       
  "23-е"
 
 from itertools import product
