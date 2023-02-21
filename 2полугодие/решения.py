@@ -136,6 +136,24 @@ for i in range(1,2021):
 print(it1/it2)
 
 
+"17-е"
+with open('17.txt') as f:
+    nums =[int(x) for x in f]
+    a=list(map(abs,nums))
+    count=0
+    sp=[]
+    for i in range (len(nums)-1):
+        if abs(nums[i])%10==3:
+            sp.append(nums[i])
+    maxi=max(sp)**2
+    sqrt=[]
+    for i in range (len(a)-1):
+        if ((a[i] % 10==3 and a[i+1] %10!=3) or (a [i]%10!=3 and a[i+1]%10==3)) and (a[i]**2+a[i+1]**2)>=maxi:
+            count+=1
+            sqrt.append(a[i]**2+a[i+1]**2)
+    print(count)
+    print(max(sqrt))
+
        
  "23-е"
 
