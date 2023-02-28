@@ -190,3 +190,27 @@ def f(x,y):
         return 1
     return f(x+1,y) + f(x*2,y)
 print (f(1,10)*f(10,35))
+
+"24-e"
+
+with open('24.txt') as f:
+    s=f.readline().replace('C','S').replace('D','S').replace('F','S')
+    s=s.replace('A','G').replace('O','G')
+    s=s.replace('SG','*')
+    cnt=0
+    m=[]
+    for i in s:
+        if i=='*':
+            cnt+=1
+        else:
+            m.append(cnt)
+            cnt=0
+print(max(m))
+
+"25-e"
+
+for i in range(2023,10**10,2023):
+    n=str(i)
+    if n [0]=='1' and n[2:6]=='2139' and n[-1]=='4':
+        print(i,i//2023)
+
