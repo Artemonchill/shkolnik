@@ -207,6 +207,11 @@ with open('24.txt') as f:
             cnt=0
 print(max(m))
 
+with open('24.txt') as f:
+    s=f.readline().replace('AB','1').replace('AC','1')
+    s=s.replace('A',' ').replace('B',' ').replace('C', ' ')
+    print(max(len(x)) for x in s.split())
+
 "25-e"
 
 for i in range(2023,10**10,2023):
