@@ -42,3 +42,43 @@
 3. Расставить сами точки внутри контура
 4. Вручную посчитать точки
 (жирность точек не влияет на подсчет)
+
+
+1)print(' ')
+2) for i in range(1,100)
+3)bin(i)
+4)count('1')
+5) if
+    else
+      elif
+6)int() str() float()
+7)break
+8)index()
+9)len()
+10)from import as
+11)left()
+12)goto()
+13)dot()
+14)done()
+15)join()
+16)product()
+17)right()
+18)up()
+19)down()
+20)False
+21)True
+22)all()
+23)sys.setrecursionlimit ()
+24)with open() as f
+25)list()
+26)abs()
+27)append()
+28)max()
+29)min()
+30)return
+31)def()
+32)readline()
+33)replace()
+34)pop()
+35)sort()
+36)reverse
