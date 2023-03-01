@@ -219,6 +219,13 @@ for i in range(2023,10**10,2023):
     if n [0]=='1' and n[2:6]=='2139' and n[-1]=='4':
         print(i,i//2023)
 
+ for a in range(10):
+    for b in range(10):
+        x=int(f'12345{a}6{b}8')
+        if x % 17 ==0:
+            print(x, x//17)       
+        
+        
 "26-e"
 
 with open ('26.txt') as f:
