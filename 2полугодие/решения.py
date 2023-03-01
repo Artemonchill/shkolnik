@@ -214,3 +214,15 @@ for i in range(2023,10**10,2023):
     if n [0]=='1' and n[2:6]=='2139' and n[-1]=='4':
         print(i,i//2023)
 
+"26-e"
+
+with open ('26.txt') as f:
+    S=[int(x) for x in f]
+    S.pop(0)
+    S.sort(reverse=True)
+    n,mini=1, S[0]
+    for i in range(1,len (S)):
+        if S[i] + 3<=mini:
+            mini = S[i]
+            n+=1
+    print(n,mini)
