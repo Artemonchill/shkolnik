@@ -93,6 +93,8 @@ for x in range(0,16):
         dot(4)
 done()
 
+"8-e"
+
 from itertools import product
 nums=product('01234567',repeat=5)
 k=0
